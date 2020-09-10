@@ -1,0 +1,120 @@
+body {
+    width: 900px;
+    margin: 0 auto;
+  }
+  nav {
+    background-color: #0b3861;
+    height: 40px;
+  }
+  li {
+    display: inline;
+    float: left;
+    width: 100px;
+    line-height: 2.5em;
+    position: relative;
+    text-align: center;
+    left: -40px;
+  }
+  .ul2 {
+    display: none;
+  }
+  #new:hover {
+    display: block;
+  }
+  #home {
+    
+  }
+  li:hover {
+    background-color: rgb(70, 119, 115);
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  form {
+    margin-top: 50px;
+  }
+  .menu {
+    background-color: #f0a211;
+    height: 40px;
+    width: 700px;
+    margin: 0 auto;
+  }
+  .col-left {
+    float: left;
+    color: white;
+  }
+  .col-left h3 {
+    margin: 9px 0 0 30px;
+  }
+  .col-right {
+    float: right;
+  }
+  .col-right ul {
+    margin: 0;
+  }
+  #about {
+    
+  }
+  .col-right ul li {
+    left: 0;
+  }
+  .main {
+    width: 698px;
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 400px;
+  }
+  .content {
+    position: relative;
+    text-align: center;
+  }
+  .hr1 {
+    display: inline-block;
+    position: absolute;
+    right: 360px;
+    width: 40px;
+    background-color: #0b3861;
+  }
+  .hr2 {
+    display: inline-block;
+    position: absolute;
+    left: 360px;
+    width: 40px;
+    background-color: #0b3861;
+  }
+  table {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 60%;
+  }
+  td {
+    height: 50px;
+  }
+  input {
+    width: 250px;
+    
+  }
+  button {
+    background-color: #f1aa0c;
+    color: white;
+    cursor: pointer;
+  }
+
+  i {
+    position: absolute;
+    left: 340px;
+  }
+.label-input{
+    
+}  
+.btn{
+    font-size: 20px;
+    margin-left: 50px;
+    border-radius: 12px;
+    border-style :none ;
+}
+.button-login{
+    margin-left: 180px;
+    margin-top:20px;
+}
